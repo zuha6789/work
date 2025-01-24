@@ -60,6 +60,10 @@ public:
         displayShopDetails();
         cout << "Total Mobile Accessories: " << totalMobileAccessories << endl;
     }
+       void tMA()
+    {
+    	cout << "Total Mobile Accessories: " << totalMobileAccessories << endl;	
+		}
 };
 
 // Main function
